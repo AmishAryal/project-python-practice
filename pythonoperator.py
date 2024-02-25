@@ -69,3 +69,9 @@ print(b)
 
 # a = "Amish"**"2"
 # print(a) unsupported operand type(s) for ** or pow(): 'str' and 'str'
+
+a = 2//2
+print(a)
+
+p = 109//10
+print(p)
